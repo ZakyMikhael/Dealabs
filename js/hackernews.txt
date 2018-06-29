@@ -1,0 +1,60 @@
+Marketing Firm Exactis Leaked a Personal Info Database with 340M Records
+https://www.wired.com/story/exactis-database-leak-340-million-records/
+The Matrix Calculus You Need for Deep Learning
+http://explained.ai/matrix-calculus/index.html
+Tesla opens the Model 3 reservation floodgates
+https://techcrunch.com/2018/06/28/tesla-opens-model-3-reservations/
+Japan's 'Naked Hermit' Pried from Island Utopia After 29 Years
+https://www.news.com.au/lifestyle/real-life/true-stories/naked-hermit-who-lived-on-deserted-island-for-thirty-years-captured-brought-back-to-civilisation/news-story/cb26d68f95f682f86e04d339e11e1541
+Twitter Will Show Who Pays for Ads and How Much They Spend
+https://www.bloomberg.com/news/articles/2018-06-28/twitter-will-show-who-pays-for-ads-and-how-much-they-spend
+The Strange Brain of the World’s Greatest Solo Climber (2016)
+http://nautil.us/issue/61/coordinates/the-strange-brain-of-the-worlds-greatest-solo-climber-rp
+The Brief, Incredibly Poetic Life of Bañec Hazyblockades: A Dwarf Fortress Diary
+https://www.rockpapershotgun.com/2018/06/28/the-brief-and-incredibly-poetic-life-of-banec-hazyblockades-a-dwarf-fortress-diary/
+One-Shot Imitation from Watching Videos
+http://bair.berkeley.edu/blog/2018/06/28/daml/
+How to Make Everything Ourselves: Open Modular Hardware
+http://www.lowtechmagazine.com/2012/12/how-to-make-everything-ourselves-open-modular-hardware.html
+Content Snare: Leaving a job to build a SaaS business
+https://www.failory.com/mistakes/content-snare
+A Peek Inside the Niantic Real World AR Platform
+https://nianticlabs.com/blog/nianticrealworldplatform/
+Internet is losing its memory: Cerf
+https://www.itnews.com.au/news/internet-is-losing-its-memory-cerf-495854
+That time I had Steve Jobs keynote at Unix Expo
+https://www.cake.co/conversations/rZXhqtP/that-time-i-had-steve-jobs-keynote-at-unix-expo
+Classic 1984 video game Robot Odyssey available online
+https://www.robotodyssey.online/
+Juan de Fuca
+https://en.wikipedia.org/wiki/Juan_de_Fuca
+Reasoning, and What It Is To Be Rational (2000)
+http://www.akat.com/reasoning.htm
+Amazon buys PillPack, an online pharmacy, for just under $1B
+https://techcrunch.com/2018/06/28/amazon-buys-pillpack-an-online-pharmacy-that-was-rumored-to-be-talking-to-walmart/
+Understanding Latent Style
+https://multithreaded.stitchfix.com/blog/2018/06/28/latent-style/
+A Sea Change Coming for Water Cooling in Datacenters
+https://www.nextplatform.com/2018/06/28/a-sea-change-coming-for-water-cooling-in-datacenters/
+Show HN: DeepSpeech based automated transcription service
+item?id=17415900
+A cheap way of storing information in DNA
+https://qz.com/1314803/storing-information-on-dna-is-now-cheap-enough-to-be-viable/
+Recreating Python's Slice Syntax in JavaScript Using ES6 Proxies
+https://intoli.com/blog/python-slicing-in-javascript/
+New GPU-Accelerated Supercomputers Change the Balance of Power on the TOP500
+https://www.top500.org/news/new-gpu-accelerated-supercomputers-change-the-balance-of-power-on-the-top500/
+SICP Goodness – Why you don't need looping constructs
+https://www.lvguowei.me/post/sicp-goodness-looping/
+Launch HN: Brex (YC W17) – Corporate Credit Card for Startups
+item?id=17418813
+Scottish bookstore lets people run the shop while renting an apartment upstairs
+https://www.nytimes.com/2018/06/28/books/open-book-wigtown-bookstore.html
+Django Newbie Mistakes
+https://code.djangoproject.com/wiki/NewbieMistakes
+Former Equifax Manager Charged with Insider Trading
+https://www.sec.gov/news/press-release/2018-115
+Words That Make Us Wince
+https://2bobs.com/podcast/words-that-make-us-wince
+How my role as CTO has changed as we've grown from 1 to 100 engineers
+https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/
